@@ -1,0 +1,31 @@
+{
+  "name": "knowmyskills-api",
+  "version": "0.0.1",
+  "description": "A simple API for retrieving details from my resume",
+  "author": "Ryan Spencer <ryan@justanotherapp.com>",
+  "contributors": [
+    {
+      "name": "Foo Bar",
+      "email": "foo.bar@example.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randomweapon/knowmyskills-api"
+  },
+  "bugs": {
+    "url": "https://github.com/randomweapon/knowmyskills-api/issues"
+  },
+  "keywords": [
+    "API",
+    "resume",
+    "CV"
+  ],
+  "preferGlobal": true,
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mysql": "^2.9.0"
+  }
+}
